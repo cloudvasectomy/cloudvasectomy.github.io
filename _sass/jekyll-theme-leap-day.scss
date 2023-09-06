@@ -13,7 +13,7 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  
+  background: url(../images/body-background.png) #eae6d1;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -213,7 +213,7 @@ header {
   .button {
     border: 1px solid #dba500;
     background: linear-gradient(rgb(255, 231, 136), rgb(255, 206, 56));
-    border-radius: 2px;
+    border-radius: 20px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
     background-color: #FFE788;
     margin-left: 5px;
