@@ -194,6 +194,17 @@ header {
     font-size: 18px;
     margin: 0px;
   }
+
+    #logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    left:7px;
+    top:7px;
+    display: block;
+    /* background: url(../images/octocat-logo.svg); */
+  }
+  
 }
 
 #banner {
@@ -271,16 +282,6 @@ header {
         background-color: #0099cc;
       }
     }
-  }
-
-  #logo {
-    position:absolute;
-    height: 36px;
-    width: 36px;
-    left:7px;
-    top:7px;
-    display: block;
-    /* background: url(../images/octocat-logo.svg); */
   }
 }
 
