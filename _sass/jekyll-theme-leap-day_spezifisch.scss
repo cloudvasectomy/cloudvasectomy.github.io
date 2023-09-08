@@ -161,16 +161,6 @@ dt {
   font-weight:700;
 }
 
-.logo {
-  /* position:absolute;
-  height: 36px;
-  width: 36px; */
-  left:7px;
-  top:7px;
-  display: inline;
-  /* background: url(../images/octocat-logo.svg); */
-}
-
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
@@ -204,6 +194,13 @@ header {
     font-size: 18px;
     margin: 0px;
   }
+
+  .logo {
+    position: fixed;
+    top: 0;
+    left:0;
+  }
+  
 }
 
 #banner {
