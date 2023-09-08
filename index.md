@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Crowd financed vasectomy ##
+# Crowd financed vasectomy
 
 ## Wie funktioniert crowd financed vasectomy?
 
