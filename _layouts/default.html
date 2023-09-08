@@ -16,10 +16,10 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <!-- <div id="logo"><img src="../assets/images/logo.png"></div> -->
+      <!-- <div id="logo"></div> -->
     
       <header>
-      <a href="{{ site.github.repository_url }}" class="logo"><strong>Test fooblalala</strong></a>
+      <a href="{{ site.github.repository_url }}" class="logo"><strong>Test fooblalala</strong><img src="../assets/images/logo.png"></a>
 
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
