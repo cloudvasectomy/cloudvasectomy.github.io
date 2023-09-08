@@ -161,6 +161,12 @@ dt {
   font-weight:700;
 }
 
+#logo {
+  position: fixed;
+  top: 0;
+  left:0;
+}
+
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
@@ -193,14 +199,7 @@ header {
     text-shadow:rgba(#000, 0.2) 0 1px 0;
     font-size: 18px;
     margin: 0px;
-  }
-
-  .logo {
-    position: fixed;
-    top: 0;
-    left:0;
-  }
-  
+  }  
 }
 
 #banner {
