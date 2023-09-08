@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Crowd vasectomy ##
+## Crowd vasectomy
 
 ## Wie funktioniert das?
 
