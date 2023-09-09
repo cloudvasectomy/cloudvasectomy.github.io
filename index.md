@@ -14,6 +14,9 @@ Nach der Anmeldung bei _Crowd vasectomy_ kommst du ganz einfach auf unsere Warte
 
 Das seit 1848 bürgerlich-dominierte Parlament der Schweiz scheint unwillens wie unfähig, sich seiner Verantwortung bezüglich Klimawandel zu stellen. Zwar senken die andauernden Tropennächte deine Spermienqualität automatisch, aber wenn du keinem deiner potentiellen Kinder den drohenden Klimakollaps zumuten möchtest, dann bietet _Crowd vasectomy_ die ideale basismedizinische Lösung.
 
+### Faktenlage
+...
+
 ## Warum nicht?
 
 Bisher sind bei uns noch keine vernünftigen Gründe eingegangen.
