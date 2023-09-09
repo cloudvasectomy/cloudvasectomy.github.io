@@ -20,8 +20,9 @@ Bisher sind bei uns noch keine vernünftigen Gründe eingegangen.
 
 ## Kritierien
 
+## Politische Einordnung und weiterreichende Überlegungen
 
-## Weiterreichende Überlegungen
+## Forderungen
 
 - Die Unterbindung gehört in die Grundversicherung.
 - Kinderfreie Menschen sollten steuerlich entlastet werden.
