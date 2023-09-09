@@ -10,16 +10,15 @@ _Crowd vasectomy_ ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in d
 
 Nach der Anmeldung bei _Crowd vasectomy_ kommst du ganz einfach auf unsere Warteliste. Sobald hinreichend Geld durch die Crowd finanziert ist, wird der erste Listenplatz unterbunden und alle anderen rücken nach: _first come, first cut_.
 
-
 ## Warum?
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Das seit 18848 bürgerlich-dominierte Parlament der Schweiz scheint unwillens wie unfähig, sich seiner Verantwortung bezüglich Klimawandel zu stellen. Zwar senken die andauernden Tropennächte deine Spermienqualität automatisch, aber wenn du keinem deiner potentiellen Kinder den drohenden Klimakollaps zumuten möchtest, dann bietet _Crowd vasectomy_ die ideale basismedizinische Lösung.
+
 
 ## Warum nicht?
 
-Bla fooo
+Bisher sind bei uns noch keine vernünftigen Gründe eingegangen.
+
 
 ## Politische Forderungen
 
