@@ -16,15 +16,14 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="logo"><img src="../assets/images/logo.png"></div>
+      <!--<div id="logo"><img src="../assets/images/logo.png"></div>-->
+      <div id="logo"></div>
       <header>
         <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
     
-      <div id="banner">
-        <!-- <span id="logo"></span> -->
-    
+      <div id="banner">    
         <a href="{{ site.github.repository_url }}" class="button fork"><strong>Anmelden!</strong></a>
       </div><!-- end banner -->
 
