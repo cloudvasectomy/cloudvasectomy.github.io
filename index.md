@@ -6,7 +6,10 @@ layout: default
 
 ## Wie funktioniert das?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+_Crowd vasectomy_ ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in der Schweiz um die Tausend Franken und wird nicht von der Grundversicherung übernommen. _Crowd vasectomy_ übernimmt deine Unterbindung.
+
+Nach der Anmeldung bei _Crowd vasectomy_ kommst du ganz einfach auf unsere Warteliste. Sobald hinreichend Geld durch die Crowd finanziert ist, wird der erste Listenplatz unterbunden und alle anderen rücken nach: _first come, first cut_.
+
 
 ## Warum?
 
