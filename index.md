@@ -2,7 +2,7 @@
 layout: default
 ---
 
- 
+&nbsp;
 
 # Wie funktioniert das?
 
