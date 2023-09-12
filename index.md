@@ -2,7 +2,19 @@
 layout: default
 ---
 
-## Wie funktioniert das?
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+# Wie funktioniert das?
 
 _Crowd vasectomy_ ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in der Schweiz um die Tausend Franken und wird nicht von der Grundversicherung übernommen. _Crowd vasectomy_ übernimmt deine Unterbindung.
 
