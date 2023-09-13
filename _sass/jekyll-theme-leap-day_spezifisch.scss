@@ -209,7 +209,7 @@ header {
   z-index: 101;
 }
 
-.testimony::before {
+#testimony::before {
     content: "✂";
     position: absolute;
     right: -6px;
