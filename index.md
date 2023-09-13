@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<p class="underline">
+<div class="underline">
 <i>Crowd vasectomy</i> ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in der Schweiz um die Tausend Franken und wird nicht von der Grundversicherung übernommen. <i>Crowd vasectomy</i> übernimmt deine Unterbindung.
-</p>
+</div>
 
 ## Wie funktioniert's?
 
