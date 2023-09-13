@@ -27,4 +27,7 @@ Bisher sind bei uns noch keine vernünftigen Gründe eingegangen.
 
 - Die Unterbindung gehört in die Grundversicherung.
 - Kinderfreie Menschen sollten steuerlich entlastet werden.
-- 
+
+## Literatur
+
+Christine Overall: "Why Have Children? The Ethical Debate", [http://mitpress.mit.edu](https://mitpress.mit.edu/9780262525299/why-have-children/)https://mitpress.mit.edu/9780262525299/why-have-children/
