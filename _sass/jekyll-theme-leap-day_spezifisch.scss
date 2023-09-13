@@ -208,6 +208,16 @@ header {
   z-index: 101;
 }
 
+.testimony::before {
+    content: "✂";
+    position: absolute;
+    right: -6px;
+    top: -13px;
+    font-weight: bold;
+    font-size: 18px;
+    color: blue;
+}
+
 #testimony {
   z-index: 100;
   right:0;
