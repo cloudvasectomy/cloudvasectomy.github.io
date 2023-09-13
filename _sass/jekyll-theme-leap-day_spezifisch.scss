@@ -209,9 +209,21 @@ header {
 }
 
 #testimony {
-  right:10%;
-  margin: 190px;
-  border: 1px;
+  z-index: 100;
+  right:0;
+  left:70%;
+  height: 50px;
+  margin-right:-382px;
+  position: fixed;
+  top: 160px;
+  background: #0099cc;
+  border: 1px solid #006699;
+  border-top-style: dashed;
+  border-top-width: 4px;
+  border-top-color: black;
+  box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+  border-radius: 0px 2px 2px 0px;
+  padding-right: 10px;
 }
 
 #banner {
