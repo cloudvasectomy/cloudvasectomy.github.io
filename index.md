@@ -3,12 +3,15 @@ layout: default
 ---
 
 <p class="underline">
-<i>Crowd vasectomy</i> ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in der Schweiz um die Tausend Franken und wird nicht von der Grundversicherung übernommen. <i>Crowd vasectomy</i> übernimmt deine Unterbindung.
+<i>Crowd Vasectomy</i> ist Crowdfunding für Vasektomien. Eine Vasektomie kostet in der Schweiz um die Tausend Franken und wird nicht von der Grundversicherung übernommen. <i>Crowd Vasectomy</i> übernimmt deine Unterbindung.
 </p>
 
 ## Wie funktioniert's?
 
 Nach der Anmeldung bei _Crowd vasectomy_ kommst du ganz einfach auf unsere Warteliste. Sobald hinreichend Geld durch die Crowd finanziert ist, wird die Person auf dem ersten Listenplatz gratis und franko unterbunden und alle anderen rücken nach: _first come, first cut_.
+
+ _Crowd Vasectomy_ kann zu äusserst günstigen Konditionen Vasektomien anbieten. Dies weil _Crowd Vasectomy_ durch einen Verbund von Urolog:innen unterstützt wird, die den Eid des Hippokrates noch tatsächlich ernst nehmen und der Sache vor dem Hintergrund des Klimakollapses verpflichtet sind. Zudem können wir durch die schlanke elektronische Verarbeitung einen riesigen Overhead einsparen und Männer im Akkord unterbinden. Dies spart Zeit, Kosten - und viel CO2.
+
 
 ## Warum?
 
